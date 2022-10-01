@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500&display=swap');
+
+:root {
+    /* Initial random colors to play around with for now */
+
+    --font-base: "DN Sans", sans-serif;
+
+    --primary-color: white;
+    --secondary-color: blue;
+    --black-color: black;
+    --lightGray-color: #e4e4e4;
+    --gray-color: #6b7688;
+    --brown-color: #46364a;
+    --white-color: #ffffff;
+
+}
+
+*{
+    
+}
+
+
+
+
+
+}
