@@ -44,6 +44,8 @@
     ]
   },
   "devDependencies": {
-    "webpack": "^5.74.0"
+    "http-proxy": "^1.18.1",
+    "webpack": "^5.74.0",
+    "webpack-dev-server": "^4.11.1"
   }
 }
