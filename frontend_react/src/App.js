@@ -1,10 +1,12 @@
 import React from 'react';
+import TestJS from './components/testapp';
 
-const App = () => {
+// const App = () => {
+  function App () {
   return (
-    <h1>Initial Text for project</h1>,
-    <img src="testpiano.jpg" alt=""></img>
-    
+    <div>
+    <TestJS />
+    </div>
   );
 }
 
