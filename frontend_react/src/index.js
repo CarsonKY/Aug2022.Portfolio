@@ -2,13 +2,13 @@ import React from 'react';
 import { ReactDOM } from 'react-dom';
 
 import App from './App';
-import '/index.css';
+import './index.css';
 
 ReactDOM.render(<App />, document.getElementById('root'));
-const index = () => {
-  return (
-    <div>index</div>
-  )
-}
+// const index = () => {
+//   return (
+//     <div>index</div>
+//   )
+// }
 
-export default index
+// export default index
