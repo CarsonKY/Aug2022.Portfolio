@@ -1,9 +1,7 @@
-# Sanity Clean Content Studio
+npm install -g @sanity/cli
+sanity init
+HIt Y on configuration prompt
+Arrow up to Ch_Portfolio project
+ARrow up to production dataset
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
-
-Now you can do the following things:
-
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+Finally sanity start to launch the backend locally
